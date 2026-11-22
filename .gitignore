@@ -1,0 +1,5 @@
+/bin/
+/dist/
+/.runtime/
+/apps/nebula-cpanel/dist/
+__pycache__/

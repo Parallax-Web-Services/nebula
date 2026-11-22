@@ -4,7 +4,7 @@ NEBULA connects an explicitly paired Nucleus fabric through an outbound HTTPS re
 
 ## Run a paired fabric across networks
 
-Both installations need the same accepted private fabric membership. Complete the invitation/request/grant exchange in the main README first. Hosted machine approval alone does not issue private fabric membership.
+Both installations need the same accepted private fabric membership. Complete the invitation/request/grant exchange first. [NUCLEUS pairing instructions](https://github.com/Parallax-Web-Services/nucleus/blob/master/README.md#first-contact-on-two-lan-computers) Hosted machine approval alone does not issue private fabric membership.
 
 Each installation also needs an active registration in the same paid Positronic organization:
 

@@ -10,7 +10,7 @@ go build -o bin/nebula ./cmd/nebula
 ./bin/nebula help
 ```
 
-The current CLI version is `0.6.1-dev`. The existing preview package recipe runs from a NUCLEUS checkout. [Packaging script](https://github.com/Parallax-Web-Services/nucleus/blob/ea8e9178b9f160c24f4d336297b15b1f85efa038/scripts/package-nebula.py)
+The current CLI version is `0.6.1-dev`. The existing preview package recipe runs from a NUCLEUS checkout. [Packaging script](https://github.com/Parallax-Web-Services/nucleus/blob/3da01eecab8caf2849823f50df1c9ef618ba7197/scripts/package-nebula.py)
 
 ## Use the existing machine
 
